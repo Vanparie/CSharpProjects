@@ -1,0 +1,15 @@
+D:\C# Projects\CSharpProjects\bin\Debug\net6.0\CSharpProjects.exe
+D:\C# Projects\CSharpProjects\bin\Debug\net6.0\CSharpProjects.deps.json
+D:\C# Projects\CSharpProjects\bin\Debug\net6.0\CSharpProjects.runtimeconfig.json
+D:\C# Projects\CSharpProjects\bin\Debug\net6.0\CSharpProjects.dll
+D:\C# Projects\CSharpProjects\bin\Debug\net6.0\ref\CSharpProjects.dll
+D:\C# Projects\CSharpProjects\bin\Debug\net6.0\CSharpProjects.pdb
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.csproj.AssemblyReference.cache
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.AssemblyInfoInputs.cache
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.AssemblyInfo.cs
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.csproj.CoreCompileInputs.cache
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.dll
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\ref\CSharpProjects.dll
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.pdb
+D:\C# Projects\CSharpProjects\obj\Debug\net6.0\CSharpProjects.genruntimeconfig.cache
