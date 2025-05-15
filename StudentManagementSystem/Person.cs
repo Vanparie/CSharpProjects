@@ -23,16 +23,4 @@ namespace CSharpProjects.StudentManagementSystem
         }
     }
 
-    // Class to run the program
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            // Create a Person object using constructor
-            Person person1 = new Person("Davidson", "davidson@example.com");
-
-            // Call the Greet method
-            person1.Greet();
-        }
-    }
 }
