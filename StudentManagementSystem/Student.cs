@@ -14,7 +14,7 @@ namespace CSharpProjects.StudentManagementSystem
 
         public void ShowStudentDetails()
         {
-            Console.WriteLine($"🎓 Student: {Name} | Email: {Email} | ID: {StudentId}");
+            Console.WriteLine($"Student: {Name} | Email: {Email} | ID: {StudentId}");
         }
     }
 
