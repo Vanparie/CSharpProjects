@@ -19,7 +19,7 @@ namespace CSharpProjects.StudentManagementSystem
         // Greet method for every person
         public void Greet()
         {
-            Console.WriteLine($"Hello, my name is {Name} and my email is {Email}.");
+            Console.WriteLine($"Hello, my name is {Name}.");
         }
     }
 
